@@ -1,0 +1,13 @@
+__Hammerequire__= ['metal', 'stick', 'rope']
+__tvrequire__=['motherboard', 'tv screen', 'power cord', 'plastic']
+__fanreqire__=['plasic', 'motor']
+__skill_level__=0
+__doorreqire__=['wood', 'wood', 'wood', 'rope', 'rope']
+__cupreqire__=['clay']
+__phonereqire__=['phone body','phone screen','motherboard']
+cmds = ["help", "debug", "job", "pay", "store/shop", "exit", "leave", "admin", "Inv", "updateSave", "saveupdate/us", "clearmessages/clear", "craft"]
+Store=['phone body:25','phone screen:25','phone:-1','apple:5', 'fan:15', 'car:3400', 'tv:580', 'house:25000', 'hammer:45', 'tree:24', 'door:53', 'cup:6', 'window:42', 'water:1', 'metal:15', 'stick:5', 'glue:5', 'motherboard:150', 'tv screen:150', 'power cord:20', 'plastic:2', 'motor:10', 'wood:10', 'rope:5', 'clay:2']
+__Version__="1.0.4"
+weeklytimeleft = 0
+used_load = False
+Admin =  True
