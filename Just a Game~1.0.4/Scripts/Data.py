@@ -1,7 +1,6 @@
 __Hammerequire__= ['metal', 'stick', 'rope']
 __tvrequire__=['motherboard', 'tv screen', 'power cord', 'plastic']
 __fanreqire__=['plasic', 'motor']
-__skill_level__=0
 __doorreqire__=['wood', 'wood', 'wood', 'rope', 'rope']
 __cupreqire__=['clay']
 __phonereqire__=['phone body','phone screen','motherboard']
